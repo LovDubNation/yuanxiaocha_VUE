@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2885479 */
+  src: url('iconfont.woff2?t=1635601807606') format('woff2'),
+       url('iconfont.woff?t=1635601807606') format('woff'),
+       url('iconfont.ttf?t=1635601807606') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-quanbudingdan:before {
+  content: "\e601";
+}
+
+.icon-dingdan1:before {
+  content: "\e652";
+}
+
+.icon-dangrixiaoshoue:before {
+  content: "\e611";
+}
+
+.icon-a-icon-xiaoshoue-fuben:before {
+  content: "\e606";
+}
+
+.icon-shangpin:before {
+  content: "\e689";
+}
+
+.icon-mima:before {
+  content: "\e6b2";
+}
+
+.icon-31shouyexuanzhong:before {
+  content: "\e600";
+}
+
+.icon-yonghufill:before {
+  content: "\e787";
+}
+
+.icon-dingdan:before {
+  content: "\e897";
+}
+
+.icon-dianpu:before {
+  content: "\e61f";
+}
+
+.icon-tongjifenxi-changguitongji:before {
+  content: "\e626";
+}
+
+.icon-yanjing_huaban1:before {
+  content: "\e663";
+}
+
+.icon-zhanghaozhongxinzhanghaoguanli:before {
+  content: "\e6a0";
+}
+
+.icon-05wangluoanquan_biyanjing:before {
+  content: "\e60e";
+}
+
